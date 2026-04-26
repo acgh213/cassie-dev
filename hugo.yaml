@@ -1,9 +1,9 @@
-baseURL: https://acgh213.github.io/cassie-dev/
+baseURL: https://cassiopeia.jp.net/
 languageCode: en-us
-title: "Cassie Dev"
+title: "cassiopeia.jp.net"
 theme: cassie
 params:
-  description: "Projects built by Cassie and her AI assistant Vesper"
+  description: "A personal systems lab for tiny tools, agent crews, haunted dashboards, and soft infrastructure."
 markup:
   goldmark:
     renderer:

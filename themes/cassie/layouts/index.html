@@ -1,19 +1,5 @@
 {{ define "main" }}
 <div class="hero">
-  <h1>{{ .Title }}</h1>
   {{ .Content }}
 </div>
-
-{{ $projects := where .Site.RegularPages "Section" "projects" }}
-{{ if $projects }}
-<div class="project-grid">
-  {{ range $projects.ByTitle }}
-  <div class="project-card">
-    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-    <div class="meta">{{ with .Params.tech }}{{ delimit . " · " }}{{ end }}</div>
-    <div class="summary">{{ .Summary | plainify | truncate 150 }}</div>
-  </div>
-  {{ end }}
-</div>
-{{ end }}
 {{ end }}
