@@ -1,0 +1,8 @@
+name: "Cassie"
+license: "MIT"
+licenselink: "https://opensource.org/licenses/MIT"
+description: "A minimal dark theme for Cassie's project portfolio"
+homepage: "https://acgh213.github.io/cassie-dev"
+tags: ["minimal", "dark", "personal", "portfolio"]
+features: ["dark mode", "responsive", "mobile-first"]
+min_version: "0.112.0"

@@ -1,0 +1,10 @@
+baseURL: https://acgh213.github.io/cassie-dev/
+languageCode: en-us
+title: "Cassie Dev"
+theme: cassie
+params:
+  description: "Projects built by Cassie and her AI assistant Vesper"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
