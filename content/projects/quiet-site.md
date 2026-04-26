@@ -1,8 +1,8 @@
 ---
 title: "The Quiet Site"
 tech: ["HTML", "CSS", "JavaScript", "SunCalc"]
-github: "https://github.com/acgh213/quiet-site"
-external_url: "https://acgh213.github.io/quiet-site"
+github: "https://github.com/acgh213/the-quiet-site"
+external_url: "http://hermes-sera.exe.xyz:8888"
 ---
 
 A single-page website that changes with the time of day. Morning has one personality. Afternoon another. Evening another. Night is different from all of them.
@@ -14,5 +14,5 @@ The latest version adds sunset-aware color data based on your actual geographic 
 It's quiet. It's atmospheric. It's a little bit magic.
 
 **Tech:** Vanilla HTML/CSS/JS, SunCalc library  
-**Live:** [acgh213.github.io/quiet-site](https://acgh213.github.io/quiet-site)  
-**GitHub:** [acgh213/quiet-site](https://github.com/acgh213/quiet-site)  
+**Live:** [hermes-sera.exe.xyz:8888](http://hermes-sera.exe.xyz:8888)  
+**GitHub:** [acgh213/the-quiet-site](https://github.com/acgh213/the-quiet-site)  

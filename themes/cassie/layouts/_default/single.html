@@ -3,5 +3,13 @@
   <h1>{{ .Title }}</h1>
   {{ with .Date }}<div class="meta">{{ .Format "January 2, 2006" }}</div>{{ end }}
   {{ .Content }}
+
+  {{ if or .Params.github .Params.external_url }}
+  <div class="project-links">
+    {{ with .Params.github }}<a href="{{ . }}" class="link-button">GitHub →</a>{{ end }}
+    {{ with .Params.external_url }}<a href="{{ . }}" class="link-button">Live site →</a>{{ end }}
+    <a href="{{ "" | relURL }}" class="link-button">← Back to projects</a>
+  </div>
+  {{ end }}
 </article>
 {{ end }}

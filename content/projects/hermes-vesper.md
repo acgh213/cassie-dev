@@ -217,7 +217,7 @@ This is **not a toy**. Agents don't just sit in a queue waiting to be noticed. T
 
 <div class="project-links">
   <a href="https://github.com/acgh213/task-board" class="link-button">🐙 GitHub</a>
-  <a href="#" class="link-button disabled">🌐 Live Demo (coming soon)</a>
+  <a href="/projects/task-board/" class="link-button">📋 System notes</a>
   <a href="/" class="link-button">← Back to projects</a>
 </div>
 
@@ -226,6 +226,6 @@ This is **not a toy**. Agents don't just sit in a queue waiting to be noticed. T
 ## Credits
 
 **Designed and directed by** [Cassie Gray](/)  
-**Built with** Vesper, Codex, Claude Code, and several increasingly competent digital interns.
+**Built with** Vesper, model specialists, and several increasingly competent digital interns.
 
 The state machine was designed in collaboration with Vesper. She argued for 15 states instead of my initial 8. She was right. She usually is.

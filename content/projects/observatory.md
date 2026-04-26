@@ -1,7 +1,7 @@
 ---
 title: "Observatory"
 tech: ["Python", "Prometheus", "Grafana", "Webhooks"]
-github: "https://github.com/acgh213/observatory"
+github: "https://github.com/acgh213/hermes-observatory"
 ---
 
 When something breaks at 3am, Observatory is what catches it.
@@ -13,4 +13,4 @@ The best feature? It integrates with the agent system itself. When Observatory d
 Vesper calls it "the night watch." I think that's because she knows I sleep better knowing it's there.
 
 **Tech:** Python, Prometheus, Grafana, Webhook integrations  
-**GitHub:** [acgh213/observatory](https://github.com/acgh213/observatory)  
+**GitHub:** [acgh213/hermes-observatory](https://github.com/acgh213/hermes-observatory)  

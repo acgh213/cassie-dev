@@ -1,11 +1,11 @@
 <header>
   <div class="wrapper">
-    <div class="site-title"><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></div>
+    <div class="site-title"><a href="{{ "" | relURL }}">{{ .Site.Title }}</a></div>
     <nav>
-      <a href="{{ "/" | relURL }}" {{ if .IsHome }}class="active"{{ end }}>Projects</a>
-      <a href="{{ "/projects/hermes-vesper/" | relURL }}" {{ if hasPrefix .RelPermalink "/projects/hermes-vesper/" }}class="active"{{ end }}>Vesper</a>
-      <a href="{{ "/about/" | relURL }}" {{ if hasPrefix .RelPermalink "/about/" }}class="active"{{ end }}>About</a>
-      <a href="{{ "/now/" | relURL }}" {{ if hasPrefix .RelPermalink "/now/" }}class="active"{{ end }}>Now</a>
+      <a href="{{ "" | relURL }}" {{ if .IsHome }}class="active"{{ end }}>Projects</a>
+      <a href="{{ "projects/hermes-vesper/" | relURL }}" {{ if hasPrefix .RelPermalink "/projects/hermes-vesper/" }}class="active"{{ end }}>Vesper</a>
+      <a href="{{ "about/" | relURL }}" {{ if hasPrefix .RelPermalink "/about/" }}class="active"{{ end }}>About</a>
+      <a href="{{ "now/" | relURL }}" {{ if hasPrefix .RelPermalink "/now/" }}class="active"{{ end }}>Now</a>
     </nav>
   </div>
 </header>
