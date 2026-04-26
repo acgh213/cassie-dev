@@ -6,9 +6,7 @@ title: "cassiopeia.jp.net"
 
 *A personal systems lab for tiny tools, agent crews, haunted dashboards, and soft infrastructure.*
 
-Cassiopeia is a small personal systems lab by Cassie Gray: IT technician, toolmaker, writer, trans woman, and occasional moonbase UI enthusiast.
-
-I build practical little machines for documentation, agent workflows, creative archives, technician tasks, and the parts of computing that still feel haunted in a useful way.
+I'm Cassie — IT technician, toolmaker, writer, trans woman, and occasional moonbase UI enthusiast. I build practical little machines for documentation, agent workflows, creative archives, technician tasks, and the parts of computing that still feel haunted in a useful way.
 
 ---
 
@@ -68,15 +66,7 @@ I build practical little machines for documentation, agent workflows, creative a
 
 ---
 
-## About
-
-IT technician, toolmaker, and woman who makes things. Practical background in scripting, documentation, agent workflows, creative software, and humane computing.
-
-Trans woman. Makes things. Likes terminal aesthetics too much. Believes computing should feel like craft.
-
----
-
-## Design philosophy
+## What I care about
 
 - **Small tools** over bloated platforms
 - **Visible systems** over magic black boxes
